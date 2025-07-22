@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "APILayer.Controllers.PersonController",
+    "Method": "GetAllPersons",
+    "RelativePath": "api/Person/GetAllPersons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
